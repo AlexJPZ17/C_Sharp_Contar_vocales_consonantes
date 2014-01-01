@@ -1,0 +1,6 @@
+D:\Mis Documentos\Projects Visual Studio 2012\Visual C#\Claces\Console\Contar_vocales_consonantes\Contar_vocales_consonantes\bin\Debug\Contar_vocales_consonantes.exe.config
+D:\Mis Documentos\Projects Visual Studio 2012\Visual C#\Claces\Console\Contar_vocales_consonantes\Contar_vocales_consonantes\bin\Debug\Contar_vocales_consonantes.exe
+D:\Mis Documentos\Projects Visual Studio 2012\Visual C#\Claces\Console\Contar_vocales_consonantes\Contar_vocales_consonantes\bin\Debug\Contar_vocales_consonantes.pdb
+D:\Mis Documentos\Projects Visual Studio 2012\Visual C#\Claces\Console\Contar_vocales_consonantes\Contar_vocales_consonantes\obj\Debug\Contar_vocales_consonantes.csprojResolveAssemblyReference.cache
+D:\Mis Documentos\Projects Visual Studio 2012\Visual C#\Claces\Console\Contar_vocales_consonantes\Contar_vocales_consonantes\obj\Debug\Contar_vocales_consonantes.exe
+D:\Mis Documentos\Projects Visual Studio 2012\Visual C#\Claces\Console\Contar_vocales_consonantes\Contar_vocales_consonantes\obj\Debug\Contar_vocales_consonantes.pdb
